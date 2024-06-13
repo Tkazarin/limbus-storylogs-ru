@@ -1,21 +1,19 @@
-# Limbus Company Story Logs
+# Limbus Company Story Logs RU Version
 ### https://retcons.github.io/limbus-storylogs/
+### https://tkazarin.github.io/limbus-storylogs-ru/
 A collection for easy access to the main storyline in Limbus Company. Only the main storyline. I'll add events if I feel like it. Maybe
+Апгрейд версия. Посмотрим, как пойдет разработка.
 
 ## Changelog
 
-Latest Version: v1.2<br>
-Last Updated: November 20, 2023
+Latest Version: v0.1<br>
+Last Updated: June 13, 2024
 
 <details>
-<summary>Update History</summary>
+<summary>История обновлений</summary>
 
-- v.1.2
-  - Added Name Labels
-- v.1.1
-  - Added Mini Episodes
-- v.1.0
-  - Page created (Heart Emoji.)
+- v.0.1
+  - Версия продублирована и исправлена
 
 </details>
 
